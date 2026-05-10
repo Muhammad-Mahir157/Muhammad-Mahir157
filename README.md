@@ -63,6 +63,12 @@
 
 ---
 
+## Octopus Digital (Avanceon)
+
+Worked as a **Full Stack Developer** (**Apr 2023 – Dec 2024**) building cloud-native industrial platforms with **.NET Core, SQL, Angular, and TypeScript**.
+
+[Detailed work highlights](https://github.com/Muhammad-Mahir-avc?tab=overview&from=2023-12-01&to=2023-12-31)
+
 ## GitHub activity
 GitHub’s contribution map is shown natively on my profile:
 ➡️ https://github.com/Muhammad-Mahir157
